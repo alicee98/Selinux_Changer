@@ -1,6 +1,6 @@
 # Selinux Changer Module
 
-**This Repository Has Archived. And New Repository For This Module Is : [Here](https://github.com/Magisk-Modules-Alt-Repo/selinux_mode)
+*This Repository Has Archived. And New Repository For This Module Is : [Here](https://github.com/Magisk-Modules-Alt-Repo/selinux_mode)
 
 * By : [@alicee98](https://t.me/alicee981)
 * Support Channel : [GTW Project](https://t.me/gtwprojectx)
